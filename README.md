@@ -34,6 +34,8 @@ I spend most of my time wrangling systems to make things talk to each other, and
 
 imo everything should have an API and an event bus.
 
+I don't really use GitHub that much? Most of my stuff goes in to private repos elsewhere 👀
+
 ---
 
 
@@ -46,8 +48,7 @@ imo everything should have an API and an event bus.
 <img src="https://img.shields.io/badge/PowerShell%207-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="powershell" />
 <img src="https://img.shields.io/badge/NodeRED-8F0000?style=flat-square&logo=node-red&logoColor=white" alt="node-red" />
 <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="node-red" />
-
-<!-- Web -->
+<br><!-- Web -->
 <img src="https://img.shields.io/badge/Frontend%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jquery" />
@@ -55,8 +56,7 @@ imo everything should have an API and an event bus.
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="bootstrap" />
-
-<!-- DB -->
+<br><!-- DB -->
 <img src="https://img.shields.io/badge/Data%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=flat-square&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white" alt="mariadb" />
@@ -64,47 +64,40 @@ imo everything should have an API and an event bus.
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white" alt="Cassandra" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-
-<!-- Docs -->
+<br><!-- Docs -->
 <img src="https://img.shields.io/badge/Docs%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="markdown" />
 <img src="https://img.shields.io/badge/draw.io-f08705?style=flat-square&logo=diagrams.net&logoColor=white" alt="draw.io" />
 <img src="https://img.shields.io/badge/BookStack-0288D1?style=flat-square&logo=bookstack&logoColor=white" alt="bookstack" />
 <img src="https://img.shields.io/badge/ReadTheDocs-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white" alt="bookstack" />
-
-<!-- Design -->
+<br><!-- Design -->
 <img src="https://img.shields.io/badge/Design%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/Adobe%20PS-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
-
-<!-- Vis -->
+<br><!-- Vis -->
 <img src="https://img.shields.io/badge/Visuals%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/MermaidJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="mermaid" />
 <img src="https://img.shields.io/badge/Grafana-0b0b0b?style=flat-square&logo=grafana&logoColor=orange" alt="grafana" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" alt="grafana" />
-
-<!-- SCM -->
+<br><!-- SCM -->
 <img src="https://img.shields.io/badge/SCM&PM%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/GitLab-100000?style=flat-square&logo=gitlab&logoColor=white" alt="gitlab" />
 <img src="https://img.shields.io/badge/Azure%20DevOps-1868f2?style=flat-square&logo=azure%20devops&logoColor=white" alt="ADO" />
-
-<!-- Tools -->
+<br><!-- Tools -->
 <img src="https://img.shields.io/badge/Tools%20----%3E%20-ffffff?style=flat-square" alt="apps" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="vagrant" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
 <img src="https://img.shields.io/badge/PowerShell-blue?style=flat-square&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/vagrant-1868f2?style=flat-square&logo=vagrant&logoColor=white" alt="vagrant" />
-
-<!-- Sec -->
+<br><!-- Sec -->
 <img src="https://img.shields.io/badge/Security%20----%3E%20-ffffff?style=flat-square" alt="security" />
 <img src="https://img.shields.io/badge/GrayLog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="graylog" />
 <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="fortinet" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="sonarqube" />
 <img src="https://img.shields.io/badge/uBlock%20Origin-800000?style=flat-square&logo=ublock%20origin&logoColor=white" alt="ublock origin" />
 <img src="https://img.shields.io/badge/HIBP-2A6379?style=flat-square&logo=haveibeenpwned&logoColor=white" alt="haveibeenpwned" />
-
-<!-- Platforms -->
+<br><!-- Platforms -->
 <img src="https://img.shields.io/badge/Platform%20----%3E%20-ffffff?style=flat-square" alt="platforms" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft%20azure&logoColor=white" alt="azure" />
 <img src="https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware vSphere" />
@@ -112,9 +105,7 @@ imo everything should have an API and an event bus.
 <img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" alt="arch linux" />
 <img src="https://img.shields.io/badge/Deb-A81D33?style=flat-square&logo=debian&logoColor=white" alt="debian linux" />
 <img src="https://img.shields.io/badge/Windows%2011-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Windows" />
-
-
-<!-- Misc -->
+<br><!-- Misc -->
 <img src="https://img.shields.io/badge/🤷%20----%3E%20-ffffff?style=flat-square" alt="misc" />
 <img src="https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&style=flat-square&logoColor=white" alt="thinkpad" />
 <img src="https://img.shields.io/badge/S3-569A31?logo=amazon%20s3&style=flat-square&logoColor=white" alt="s3" />
